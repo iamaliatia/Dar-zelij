@@ -1,0 +1,8 @@
+{
+  "name": "Dar Zellige",
+  "description": "نظام إدارة وعرض منتجات ومشاريع شركة دار الزليج للرخام والزليج المغربي الأصيل",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
